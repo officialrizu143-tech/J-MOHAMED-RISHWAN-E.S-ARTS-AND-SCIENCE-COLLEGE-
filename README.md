@@ -1,1 +1,9 @@
-# J-MOHAMED-RISHWAN-E.S-ARTS-AND-SCIENCE-COLLEGE-
+student-enrollment-course-management-system/
+│
+├── README.md
+├── lib/
+├── assets/
+├── android/
+├── ios/
+├── web/
+└── pubspec.yaml
